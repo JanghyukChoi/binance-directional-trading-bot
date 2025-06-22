@@ -148,3 +148,4 @@ if __name__ == "__main__":
 
     print(message)
     send_telegram(message)
+    print("✅ Finished script execution.")
